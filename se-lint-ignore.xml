@@ -1,13 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <se-lint-ignore>
-	<file path="endnotes.xhtml">
-		<ignore code="s-064">
-			<reason>Em-dash here indicates editor's comment and is not part of the citation.</reason>
-		</ignore>
-		<ignore code="t-057">
-			<reason>Editor's comment starts with lower case letter.</reason>
-		</ignore>
-	</file>
 	<file path="section-1-3-3.xhtml">
 		<ignore code="t-017">
 			<reason>Question mark belongs within italics here.</reason>
