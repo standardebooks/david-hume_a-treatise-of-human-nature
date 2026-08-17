@@ -2,8 +2,8 @@
 <package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="rdf: http://www.w3.org/1999/02/22-rdf-syntax-ns#" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">https://standardebooks.org/ebooks/david-hume/a-treatise-of-human-nature</dc:identifier>
-		<dc:date>1900-01-01T00:00:00Z</dc:date>
-		<meta property="dcterms:modified">1900-01-01T00:00:00Z</meta>
+		<dc:date>2026-08-17T20:44:59Z</dc:date>
+		<meta property="dcterms:modified">2026-08-17T20:44:59Z</meta>
 		<dc:rights>The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).</dc:rights>
 		<meta property="rdf:type">http://schema.org/Book</meta>
 		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
@@ -42,17 +42,19 @@
 		<meta property="term" refines="#subject-1">sh85072732</meta>
 		<meta property="schema:genre">Nonfiction</meta>
 		<meta property="schema:genre">Philosophy</meta>
-		<meta property="schema:abstract">This seminal work in British Empiricism lays out an clear and original vision not only of our knowledge and understanding of the world but also of human psychology and morality, a vision that has challenged and inspired philosophers for centuries.</meta>
+		<meta property="schema:abstract">Philosopher David Hume lays out a clear and original vision of our knowledge and understanding of the world, and also of human psychology and morality.</meta>
 		<dc:description>
-			&lt;p&gt;In the &lt;i&gt;Treatise of Human Nature&lt;/i&gt;, written in 1739, &lt;a href="https://standardebooks.org/ebooks/david-hume"&gt;David Hume&lt;/a&gt; lays out his initial vision of our knowledge and understanding of the world, of the nature of our psychology and motivation, and, building on these, of moral and political philosophy. In Book I, Hume considers our understanding of the world. With a keen critical perspective that is ever skeptical about abstract metaphysical claims, Hume follows other empiricists (such as Locke) in grounding our understanding in experience as the source of all our ideas and of their relations to each other. In one important line of argument, he raises what has come to be known as his “problem of induction” at the heart of our understanding of causation and of science, arguing that we have no reason to think that the future will be like the past since our only evidence for that claim could be past experience—that the more recent past has been like the further past, which doesn’t tell us anything about the future at all. (This problem has plagued philosophers ever since.)&lt;/p&gt;
-			&lt;p&gt;In Book II Hume turns from belief and reason to desire and the passions, famously arguing that “it is not contrary to reason to prefer the destruction of the whole world to the scratching of my finger”—that questions of what we &lt;em&gt;ought&lt;/em&gt; to desire or value are not questions we can settle by appealing to beliefs and arguments. Rather, our desires and passions can be independent of our beliefs, so that values are not a part of the world on its own but are &lt;em&gt;projected&lt;/em&gt; by us onto the world. This means that determining what we ought to desire or value is ultimately a matter not of reason but of exercising good “taste.” In Book III, Hume spells out the implications this view has for morality and so for moral values and moral taste. In doing so, he emphasizes our sympathy for others and the need for us to use that sympathy so as to adopt “steady and general points of view” as the proper vantage point for engaging in moral criticism of ourselves or others.&lt;/p&gt;
-			&lt;p&gt;The &lt;i&gt;Treatise&lt;/i&gt; was not well received on its initial publication, with Hume himself writing that it fell “deadborn from the press.” He thought it an immature work, written as it was before he was 25 years old, and he later reworked his account from Book I in his &lt;a href="https://standardebooks.org/ebooks/david-hume/an-enquiry-concerning-human-understanding"&gt;&lt;i&gt;Enquiry Concerning Human Understanding&lt;/i&gt;&lt;/a&gt; and from Book III in &lt;i&gt;Enquiry Concerning the Principles of Morals&lt;/i&gt;. Nonetheless, much of Hume’s dissatisfaction seems to be stylistic rather than substantive; philosophical scholarship has tended to focus on the &lt;i&gt;Treatise&lt;/i&gt;, and it has remained highly influential to this day, shaping important strands of thought in philosophy and psychology.&lt;/p&gt;
+			&lt;p&gt;In the &lt;i&gt;Treatise of Human Nature&lt;/i&gt;, written in 1739, &lt;a href="https://standardebooks.org/ebooks/david-hume"&gt;David Hume&lt;/a&gt; lays out his initial vision of our knowledge and understanding of the world, of the nature of our psychology and motivation, and, building on these, of moral and political philosophy.&lt;/p&gt;
+			&lt;p&gt;In Book I, Hume considers our understanding of the world. With a keen critical perspective that is ever skeptical about abstract metaphysical claims, he follows other empiricists (such as &lt;a href="https://standardebooks.org/ebooks/john-locke"&gt;Locke&lt;/a&gt;) in grounding our understanding in experience as the source of all our ideas and of their relations to each other. In one important line of argument, he raises what has come to be known as his “problem of induction” at the heart of our understanding of causation and of science, arguing that we have no reason to think that the future will be like the past, since our only evidence for that claim could be past experience—a problem that has plagued philosophers ever since.&lt;/p&gt;
+			&lt;p&gt;In Book II, Hume turns from belief and reason to desire and the passions, famously arguing that “it is not contrary to reason to prefer the destruction of the whole world to the scratching of my finger”—that questions of what we &lt;em&gt;ought&lt;/em&gt; to desire or value are not questions we can settle by appealing to beliefs and arguments. Rather, our desires and passions can be independent of our beliefs, so that values aren’t a &lt;em&gt;part of&lt;/em&gt; the world, but are &lt;em&gt;projected&lt;/em&gt; by us &lt;em&gt;onto&lt;/em&gt; the world.&lt;/p&gt;
+			&lt;p&gt;In Book III, Hume spells out the implications this view has for morality, and so for moral values and moral taste. In doing so, he emphasizes our sympathy for others and the need for us to use that sympathy so as to adopt “steady and general points of view” as the proper vantage point for engaging in moral criticism.&lt;/p&gt;
+			&lt;p&gt;The &lt;i&gt;Treatise&lt;/i&gt; was poorly received, with Hume himself writing that it fell “deadborn from the press.” He thought it an immature work, written as it was before he was 25 years old, and he later reworked his account from Book I in his &lt;a href="https://standardebooks.org/ebooks/david-hume/an-enquiry-concerning-human-understanding"&gt;&lt;i&gt;Enquiry Concerning Human Understanding&lt;/i&gt;&lt;/a&gt; and from Book III in his &lt;i&gt;Enquiry Concerning the Principles of Morals&lt;/i&gt;. Nonetheless, much of Hume’s dissatisfaction seems to be stylistic rather than substantive; philosophical scholarship has tended to focus on the &lt;i&gt;Treatise&lt;/i&gt; over his other works, and it has remained highly influential to this day, shaping important strands of thought in philosophy and psychology.&lt;/p&gt;
 		</dc:description>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/4705</dc:source>
 		<dc:source>https://archive.org/details/0213-bk</dc:source>
-		<meta property="schema:wordCount">WORD_COUNT</meta>
-		<meta property="schema:educationalLevel">READING_EASE</meta>
+		<meta property="schema:wordCount">216363</meta>
+		<meta property="schema:educationalLevel">38.69</meta>
 		<link href="https://en.wikipedia.org/wiki/A_Treatise_of_Human_Nature" rel="schema:sameAs"/>
 		<meta id="vcs-repository" property="schema:workExample">schema:workExample</meta>
 		<meta property="rdf:type" refines="#vcs-repository">http://schema.org/SoftwareSourceCode</meta>
@@ -81,7 +83,7 @@
 		<meta property="role" refines="#transcriber-3" scheme="marc:relators">trc</meta>
 		<dc:contributor id="editor">L. A. Selby-Bigge</dc:contributor>
 		<meta property="file-as" refines="#editor">Selby-Bigge, L. A.</meta>
-		<link href="https://en.wikipedia.org/wiki/Sir_Amherst_Selby-Bigge%2C_1st_Baronet" refines="#editor" rel="schema:url"/>
+		<link href="https://en.wikipedia.org/wiki/Sir_Amherst_Selby-Bigge%2C_1st_Baronet" refines="#editor" rel="schema:sameAs"/>
 		<meta property="role" refines="#editor" scheme="marc:relators">ann</meta>
 		<meta property="role" refines="#editor" scheme="marc:relators">edt</meta>
 		<dc:contributor id="producer-1">Bennett Helm</dc:contributor>
@@ -92,6 +94,9 @@
 		<meta property="role" refines="#producer-1" scheme="marc:relators">mrk</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">pfr</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">tyg</meta>
+		<dc:contributor id="producer-2">Lukas Bystricky</dc:contributor>
+		<meta property="file-as" refines="#producer-2">Bystricky, Lukas</meta>
+		<meta property="role" refines="#producer-2" scheme="marc:relators">pfr</meta>
 	</metadata>
 	<manifest>
 		<item href="css/core.css" id="core.css" media-type="text/css"/>
