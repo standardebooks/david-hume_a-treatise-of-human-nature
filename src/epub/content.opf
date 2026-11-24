@@ -53,7 +53,7 @@
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/4705</dc:source>
 		<dc:source>https://archive.org/details/0213-bk</dc:source>
-		<meta property="schema:wordCount">216363</meta>
+		<meta property="schema:wordCount">216355</meta>
 		<meta property="schema:educationalLevel">38.69</meta>
 		<link href="https://en.wikipedia.org/wiki/A_Treatise_of_Human_Nature" rel="schema:sameAs"/>
 		<meta id="vcs-repository" property="schema:workExample">schema:workExample</meta>
